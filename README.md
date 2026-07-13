@@ -40,15 +40,19 @@ Beyond coding, I'm a **goalkeeper** who loves **swimming**, occasional **gaming*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My Commitment & Focus
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Amirh-Darvishi/Amirh-Darvishi/main/stats.svg" height="170" />
-  <img src="https://raw.githubusercontent.com/Amirh-Darvishi/Amirh-Darvishi/main/streak.svg" height="170" />
-</div>
+| 🎯 **Current Focus** | Backend Architecture · Django · FastAPI · RESTful APIs |
+| :--- | :--- |
+| ⏳ **Learning Path** | Docker Deep-Dive · Machine Learning Deployment · Advanced SQL |
+| ⚡ **My Philosophy** | *"Consistency over Intensity – every commit counts"* |
+| 📈 **Daily Discipline** | Clean code · Meeting deadlines · Never stop learning |
+| 🧠 **Beyond Code** | Goalkeeper · Swimmer · Nature Explorer · Strategic Gamer |
+
+---
 
 <p align="center">
-  <i>⚡ Consistency over intensity – every commit counts</i>
+  <i>⚡ No broken images here – just pure commitment to excellence.</i>
 </p>
 
 ---

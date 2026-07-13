@@ -44,7 +44,7 @@ Beyond coding, I'm a **goalkeeper** who loves **swimming**, occasional **gaming*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amirh-Darvishi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirh-Darvishi&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirh-Darvishi&theme=dark&hide_border=true&hide_badge=true" height="170" />
 </div>
 
 <p align="center">

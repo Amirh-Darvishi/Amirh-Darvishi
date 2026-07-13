@@ -17,7 +17,7 @@ jobs:
 
       - name: Download GitHub Stats Card
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Amirh-Darvishi&show_icons=true&theme=dark&hide_border=true&count_private=true"
+          curl -o stats.svg "https://github-readme-stats-git-master.vercel.app/api?username=Amirh-Darvishi&show_icons=true&theme=dark&hide_border=true&count_private=true"
 
       - name: Download GitHub Streak Stats
         run: |

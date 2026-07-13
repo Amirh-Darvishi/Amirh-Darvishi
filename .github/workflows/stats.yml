@@ -1,0 +1,30 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # هر روز ساعت ۱۲ شب به‌وقت گرینویچ اجرا می‌شود
+  workflow_dispatch:  # به شما اجازه می‌دهد خودتان دستی اجرایش کنید
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # اجازه‌ی ذخیره‌سازی در ریپو را می‌دهد
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download GitHub Stats Card
+        run: |
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Amirh-Darvishi&show_icons=true&theme=dark&hide_border=true&count_private=true"
+
+      - name: Download GitHub Streak Stats
+        run: |
+          curl -o streak.svg "https://streak-stats.demolab.com/?user=Amirh-Darvishi&theme=dark&hide_border=true"
+
+      - name: Commit and Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '*.svg'
+          message: 'chore: auto-update github stats'

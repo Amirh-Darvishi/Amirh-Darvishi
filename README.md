@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">👋 Amirhossein Darvishi</h1>
+<h1 align="center">I'm Amirhossein Darvishi</h1>
 <h3 align="center">Backend Developer · Clean Code Enthusiast</h3>
 
 <p align="center">
